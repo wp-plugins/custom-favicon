@@ -1,9 +1,9 @@
 === Custom Favicon ===
 Contributors: hchouhan, themeist
-Donate link: http://www.dreamsonline.net
+Donate link: http://themeist.co
 Tags: theme, favicon, admin, blog, wordpress, icon, iphone, apple touch, apple touch icon, upload
 Requires at least: 3.5
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 Stable tag: 1.0.3
 Last Updated: 2015-May-06
 Plugin Name: Custom Favicon
